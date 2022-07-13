@@ -25,6 +25,9 @@ Note: I will continue to work on attributing images and crediting appropriately.
 # Safety Tools
 There is a handout in the world with a Safety Preamble based on tools from the [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj). Please edit or delete this handout as fits your session.
 
+# Modules
+The modules will be found in the modules folder in this world in your Foundry VTT user data directory. On Windows this is in your **%AppData** folder under Foundry VTT.
+
 # License
 * GNU GPL v3. See the LICENSE file for detail.
 * Modules are CC v3. [See the Creative Commons](https://creativecommons.org/licenses/by/3.0/) for detail. 
