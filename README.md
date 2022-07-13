@@ -8,6 +8,9 @@ Copy the following URL and paste it into the Manifest URL box on the Foundry VTT
 --------------------
 >   https://raw.githubusercontent.com/zeshanrajput/6we1sttaste/main/world.json
 --------------------
+
+The world comes with two accounts: GameMaster and Assistant GM. These have no password by default - you should set one, especially if you're going to use this online. 
+
 # Relevant Links
 * [Shadowrun 6th Edition](https://store.catalystgamelabs.com/products/shadowrun-sixth-world-core-rulebook)
 * Shadowrun Missions - [Facebook Group](https://www.facebook.com/SRMissions/), [Forums](https://forums.shadowruntabletop.com/)
