@@ -1,0 +1,23 @@
+{
+  "name": "6we1sttaste",
+  "title": "6we1stTaste",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [],
+  "system": "shadowrun6-eden",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "worlds/SR5_City_Seattle.jpg",
+  "coreVersion": "9.269",
+  "nextSession": null,
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "0.7.1"
+}
