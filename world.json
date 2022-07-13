@@ -3,7 +3,7 @@
   "title": "Shadowrun 6th Edition Missions - First Taste",
   "description": "This Foundry VTT World contains a set of pre-generated characters and six short missions designed to introduce players to the world of Shadowrun.",
   "url": "https://github.com/zeshanrajput/6we1sttaste",
-  "manifest": "https://github.com/zeshanrajput/6we1sttaste/blob/main/world.json",
+  "manifest": "https://raw.githubusercontent.com/zeshanrajput/6we1sttaste/main/world.json",
   "download": "https://github.com/zeshanrajput/6we1sttaste/archive/refs/heads/main.zip",
   "authors": [
         {
