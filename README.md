@@ -21,6 +21,10 @@ The world comes with two accounts: GameMaster and Assistant GM. These have no pa
 * Other image credits are to the Shadowrun Core Rule Book. 
 
 Note: I will continue to work on attributing images and crediting appropriately. If for any reason you'd like an image you own removed, please let me know.
+
+# Safety Tools
+There is a handout in the world with a Safety Preamble based on tools from the [TTRPG Safety Toolkit](https://drive.google.com/drive/folders/114jRmhzBpdqkAlhmveis0nmW73qkAZCj). Please edit or delete this handout as fits your session.
+
 # License
 * GNU GPL v3. See the LICENSE file for detail.
 * Modules are CC v3. [See the Creative Commons](https://creativecommons.org/licenses/by/3.0/) for detail. 
