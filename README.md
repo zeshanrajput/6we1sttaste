@@ -3,6 +3,8 @@ A [Foundry VTT](https://foundryvtt.com/) world for Shadowrun 6th Edition with se
 # Summary
 This [Foundry VTT](https://foundryvtt.com/) world contains a set of pre-generated characters and six short missions designed to introduce players to the world of Shadowrun. 
 # Installation
+You'll need the Shadowrun 6 module by Taranion (taranion#5388). Get it [here](https://foundryvtt.com/packages/shadowrun6-eden). 
+
 Copy the following URL and paste it into the Manifest URL box on the Foundry VTT Install World screen.
 
 --------------------
