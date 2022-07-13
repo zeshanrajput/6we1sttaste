@@ -1,10 +1,10 @@
 # Shadowrun 6th Edition Missions - First Taste
-A Foundry VTT world for Shadowrun 6th Edition with several short missions. 
+A [Foundry VTT](https://foundryvtt.com/) world for Shadowrun 6th Edition with several short missions. 
 # Summary
 This [Foundry VTT](https://foundryvtt.com/) world contains a set of pre-generated characters and six short missions designed to introduce players to the world of Shadowrun. 
 # Installation
-
 Copy the following URL and paste it into the Manifest URL box on the Foundry VTT Install World screen.
+
 --------------------
 >   https://raw.githubusercontent.com/zeshanrajput/6we1sttaste/main/world.json
 --------------------
