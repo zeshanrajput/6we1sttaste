@@ -22,3 +22,6 @@ Note: I will continue to work on attributing images and crediting appropriately.
 * GNU GPL v3. See the LICENSE file for detail.
 * Modules are CC v3. [See the Creative Commons](https://creativecommons.org/licenses/by/3.0/) for detail. 
 * In short - feel free to copy, adapt for your own use, etc. Give credit where credit is due, and don't sell that which is given freely. The actual licenses trump this statement. When in doubt, [Wheaton's Law](https://www.attorneyatwork.com/wheatons-law/).
+
+# Disclaimer
+All attempts were made to keep the contents current with the various errata, mission guides, etc. that Shadowrun Missions falls under. Specifically, @Hobbes (Tom#9588) mentioned that the pre-gen characters may not be up-to-date since the release of Stolen Goods. If you find any issues, please file them as issues here. Wherever possible we'll work with the original content creators to resolve them.
