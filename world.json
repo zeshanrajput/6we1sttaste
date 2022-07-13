@@ -16,7 +16,7 @@
       }
   ],
   "flags": {},
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": [],
   "esmodules": [],
   "styles": [],
@@ -26,7 +26,7 @@
   "dependencies": [],
   "socket": false,
   "protected": false,
-  "background": "scenes/SR5_City_Seattle.jpg",
+  "background": "worlds/6we1sttaste/scenes/SR5_City_Seattle.jpg",
   "coreVersion": "9.269",
   "nextSession": null,
   "resetKeys": false,
