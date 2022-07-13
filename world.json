@@ -1,8 +1,20 @@
 {
   "name": "6we1sttaste",
-  "title": "6we1stTaste",
-  "description": "",
-  "authors": [],
+  "title": "Shadowrun 6th Edition Missions - First Taste",
+  "description": "This Foundry VTT World contains a set of pre-generated characters and six short missions designed to introduce players to the world of Shadowrun.",
+  "url": "https://github.com/zeshanrajput/6we1sttaste",
+  "manifest": "https://github.com/zeshanrajput/6we1sttaste/blob/main/world.json",
+  "download": "https://github.com/zeshanrajput/6we1sttaste/archive/refs/heads/main.zip",
+  "authors": [
+        {
+          "name": "WarDoctor",
+          "discord": "WarDoctor#3635"
+      },
+          {
+          "name": "LunarShadow",
+          "discord": "LunarShadow#8487"
+      }
+  ],
   "flags": {},
   "version": "1.0.0",
   "scripts": [],
@@ -14,7 +26,7 @@
   "dependencies": [],
   "socket": false,
   "protected": false,
-  "background": "worlds/SR5_City_Seattle.jpg",
+  "background": "scenes/SR5_City_Seattle.jpg",
   "coreVersion": "9.269",
   "nextSession": null,
   "resetKeys": false,
