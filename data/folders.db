@@ -1,0 +1,5 @@
+{"name":"Drones","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"0folTEGssNl1hy7t"}
+{"_id":"VfGqCHSzP2DylxHc","name":"Hostile NPCs","type":"Actor","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Weapons","type":"Item","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"ZAOM9iB27GzldtZ0"}
+{"name":"Vehicles","type":"Actor","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"eZ5azjt2kwEuoOd0"}
+{"_id":"vwxrxxRnaiusqZGG","name":"PreGen PCs","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":"","flags":{}}
