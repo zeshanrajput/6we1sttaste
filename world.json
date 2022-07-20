@@ -5,6 +5,7 @@
   "url": "https://github.com/zeshanrajput/6we1sttaste",
   "manifest": "https://raw.githubusercontent.com/zeshanrajput/6we1sttaste/main/world.json",
   "download": "https://github.com/zeshanrajput/6we1sttaste/archive/refs/heads/main.zip",
+  "manifestPlusVersion": "1.0.1",
   "authors": [
         {
           "name": "WarDoctor",
