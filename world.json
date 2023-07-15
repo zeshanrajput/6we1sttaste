@@ -1,34 +1,125 @@
 {
-  "name": "6we1sttaste",
   "title": "Shadowrun 6th Edition Missions - First Taste",
   "description": "This Foundry VTT World contains a set of pre-generated characters and six short missions designed to introduce players to the world of Shadowrun.",
   "authors": [
     {
       "name": "WarDoctor",
-      "discord": "WarDoctor#3635"
+      "discord": "WarDoctor#3635",
+      "flags": {}
     },
     {
       "name": "LunarShadow",
-      "discord": "LunarShadow#8487"
+      "discord": "LunarShadow#8487",
+      "flags": {}
     }
   ],
   "url": "https://github.com/zeshanrajput/6we1sttaste",
-  "flags": {},
   "version": "1.0.3",
-  "scripts": [],
-  "esmodules": [],
-  "styles": [],
-  "languages": [],
-  "packs": [],
+  "packs": [
+    {
+      "label": "PreGens (Hobbes)",
+      "type": "Actor",
+      "name": "pregens-hobbes",
+      "path": "packs/pregens-hobbes",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.pregens-hobbes",
+      "packageType": "world",
+      "packageName": "6we1sttaste",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Vehicles",
+      "type": "Actor",
+      "name": "vehicles",
+      "path": "packs/vehicles",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.vehicles",
+      "packageType": "world",
+      "packageName": "6we1sttaste",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Opponents & Allies",
+      "type": "Actor",
+      "name": "opponents-and-allies",
+      "path": "packs/opponents-and-allies",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.opponents-and-allies",
+      "packageType": "world",
+      "packageName": "6we1sttaste",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Battle Maps",
+      "type": "Scene",
+      "name": "battle-maps",
+      "path": "packs/battle-maps",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.battle-maps",
+      "packageType": "world",
+      "packageName": "6we1sttaste",
+      "index": [],
+      "folders": []
+    },
+    {
+      "label": "Items",
+      "type": "Item",
+      "name": "items",
+      "path": "packs/items",
+      "system": "shadowrun6-eden",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.items",
+      "packageType": "world",
+      "packageName": "6we1sttaste",
+      "index": [],
+      "folders": []
+    }
+  ],
   "system": "shadowrun6-eden",
-  "dependencies": [],
-  "socket": false,
   "manifest": "https://raw.githubusercontent.com/zeshanrajput/6we1sttaste/main/world.json",
   "download": "https://github.com/zeshanrajput/6we1sttaste/archive/refs/heads/main.zip",
-  "protected": false,
   "background": "worlds/6we1sttaste/scenes/SR5_City_Seattle.jpg",
-  "coreVersion": "9.269",
+  "coreVersion": "11.305",
   "resetKeys": false,
   "safeMode": false,
-  "systemVersion": "0.7.1"
+  "systemVersion": "1.2.0",
+  "id": "6we1sttaste",
+  "compatibility": {
+    "verified": "11.305",
+    "minimum": "11"
+  },
+  "lastPlayed": "Sat Jul 15 2023 08:15:39 GMT-0400 (Eastern Daylight Time)",
+  "playtime": 927
 }

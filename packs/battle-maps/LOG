@@ -1,0 +1,5 @@
+2023/07/15-08:04:32.932 66c Delete type=3 #1
+2023/07/15-08:15:39.677 22bc Level-0 table #5: started
+2023/07/15-08:15:39.684 22bc Level-0 table #5: 22280 bytes OK
+2023/07/15-08:15:39.689 22bc Delete type=0 #3
+2023/07/15-08:15:39.689 22bc Manual compaction at level-0 from '!scenes!6J5FObiUuxkn6Ixi' @ 72057594037927935 : 1 .. '!scenes.walls!j4S6r4SjE68T8hrG.x9ZqxJVIsntIzcfU' @ 0 : 0; will stop at (end)
